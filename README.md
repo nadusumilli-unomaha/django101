@@ -12,4 +12,5 @@ But:
 ## django test
 
 In the django project in the repo please add a profile model and add a relationship to the user.
+Create a super user in the django app.
 In the view create a register page and alow a register view in the django app.
