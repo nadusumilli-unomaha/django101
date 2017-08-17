@@ -11,3 +11,9 @@ class IndexView(generic.ListView):
     template_name = 'api/index.html'
     context_object_name = 'current_experiments'
 
+class RegisterView(generic.ListView):
+	# Please complete this view and html file.
+	model = User
+
+	
+
